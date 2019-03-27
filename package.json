@@ -1,0 +1,16 @@
+{
+  "name": "applitools demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node start.js"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "chromedriver": "^2.46.0",
+    "eyes.selenium": "0.0.83",
+    "npm": "^6.9.0",
+    "selenium-webdriver": "^3.6.0"
+  }
+}
